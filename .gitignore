@@ -1,0 +1,7 @@
+# Acquired public code stays re-acquirable at its sources (provenance + HEADs in acquired/INDEX.md); the repo carries the Meadow itself.
+acquired/openai/
+acquired/whatsapp/
+acquired/hydrogen-aosp/
+acquired/pylibs/
+__pycache__/
+*.pyc
